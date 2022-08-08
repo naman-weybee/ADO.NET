@@ -1,0 +1,7 @@
+D:\.NET\ADO.NET\ADO.NET SQL Server Connection\SQL_Server_Connection\bin\Debug\SQL_Server_Connection.exe.config
+D:\.NET\ADO.NET\ADO.NET SQL Server Connection\SQL_Server_Connection\bin\Debug\SQL_Server_Connection.exe
+D:\.NET\ADO.NET\ADO.NET SQL Server Connection\SQL_Server_Connection\bin\Debug\SQL_Server_Connection.pdb
+D:\.NET\ADO.NET\ADO.NET SQL Server Connection\SQL_Server_Connection\obj\Debug\SQL_Server_Connection.csproj.AssemblyReference.cache
+D:\.NET\ADO.NET\ADO.NET SQL Server Connection\SQL_Server_Connection\obj\Debug\SQL_Server_Connection.csproj.CoreCompileInputs.cache
+D:\.NET\ADO.NET\ADO.NET SQL Server Connection\SQL_Server_Connection\obj\Debug\SQL_Server_Connection.exe
+D:\.NET\ADO.NET\ADO.NET SQL Server Connection\SQL_Server_Connection\obj\Debug\SQL_Server_Connection.pdb

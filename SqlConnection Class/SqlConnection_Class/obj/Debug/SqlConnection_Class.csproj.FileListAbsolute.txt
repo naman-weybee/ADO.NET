@@ -1,0 +1,7 @@
+D:\.NET\ADO.NET\SqlConnection Class\SqlConnection_Class\bin\Debug\SqlConnection_Class.exe.config
+D:\.NET\ADO.NET\SqlConnection Class\SqlConnection_Class\bin\Debug\SqlConnection_Class.exe
+D:\.NET\ADO.NET\SqlConnection Class\SqlConnection_Class\bin\Debug\SqlConnection_Class.pdb
+D:\.NET\ADO.NET\SqlConnection Class\SqlConnection_Class\obj\Debug\SqlConnection_Class.csproj.AssemblyReference.cache
+D:\.NET\ADO.NET\SqlConnection Class\SqlConnection_Class\obj\Debug\SqlConnection_Class.csproj.CoreCompileInputs.cache
+D:\.NET\ADO.NET\SqlConnection Class\SqlConnection_Class\obj\Debug\SqlConnection_Class.exe
+D:\.NET\ADO.NET\SqlConnection Class\SqlConnection_Class\obj\Debug\SqlConnection_Class.pdb

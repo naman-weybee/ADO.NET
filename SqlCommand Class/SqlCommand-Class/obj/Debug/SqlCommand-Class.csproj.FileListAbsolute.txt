@@ -1,0 +1,7 @@
+D:\.NET\ADO.NET\SqlCommand Class\SqlCommand-Class\bin\Debug\SqlCommand-Class.exe.config
+D:\.NET\ADO.NET\SqlCommand Class\SqlCommand-Class\bin\Debug\SqlCommand-Class.exe
+D:\.NET\ADO.NET\SqlCommand Class\SqlCommand-Class\bin\Debug\SqlCommand-Class.pdb
+D:\.NET\ADO.NET\SqlCommand Class\SqlCommand-Class\obj\Debug\SqlCommand-Class.csproj.CoreCompileInputs.cache
+D:\.NET\ADO.NET\SqlCommand Class\SqlCommand-Class\obj\Debug\SqlCommand-Class.exe
+D:\.NET\ADO.NET\SqlCommand Class\SqlCommand-Class\obj\Debug\SqlCommand-Class.pdb
+D:\.NET\ADO.NET\SqlCommand Class\SqlCommand-Class\obj\Debug\SqlCommand-Class.csproj.AssemblyReference.cache
