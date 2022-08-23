@@ -1,0 +1,7 @@
+D:\.NET\ADO.NET\SQLDataSet\CreatingWebFormTable\CreatingWebFormTable\bin\Debug\CreatingWebFormTable.exe.config
+D:\.NET\ADO.NET\SQLDataSet\CreatingWebFormTable\CreatingWebFormTable\bin\Debug\CreatingWebFormTable.exe
+D:\.NET\ADO.NET\SQLDataSet\CreatingWebFormTable\CreatingWebFormTable\bin\Debug\CreatingWebFormTable.pdb
+D:\.NET\ADO.NET\SQLDataSet\CreatingWebFormTable\CreatingWebFormTable\obj\Debug\CreatingWebFormTable.csproj.AssemblyReference.cache
+D:\.NET\ADO.NET\SQLDataSet\CreatingWebFormTable\CreatingWebFormTable\obj\Debug\CreatingWebFormTable.csproj.CoreCompileInputs.cache
+D:\.NET\ADO.NET\SQLDataSet\CreatingWebFormTable\CreatingWebFormTable\obj\Debug\CreatingWebFormTable.exe
+D:\.NET\ADO.NET\SQLDataSet\CreatingWebFormTable\CreatingWebFormTable\obj\Debug\CreatingWebFormTable.pdb

@@ -4,3 +4,4 @@ D:\.NET\ADO.NET\SqlDataReader Class\SqlDataReader_Class\bin\Debug\SqlDataReader_
 D:\.NET\ADO.NET\SqlDataReader Class\SqlDataReader_Class\obj\Debug\SqlDataReader_Class.csproj.CoreCompileInputs.cache
 D:\.NET\ADO.NET\SqlDataReader Class\SqlDataReader_Class\obj\Debug\SqlDataReader_Class.exe
 D:\.NET\ADO.NET\SqlDataReader Class\SqlDataReader_Class\obj\Debug\SqlDataReader_Class.pdb
+D:\.NET\ADO.NET\SqlDataReader Class\SqlDataReader_Class\obj\Debug\SqlDataReader_Class.csproj.AssemblyReference.cache
